@@ -43,7 +43,7 @@ An advanced healthcare decision-support system powered by Machine Learning model
 
 ```bash
 # Clone Repository
-git clone [https://github.com/amitabh-7t/Medical-Disease-Risk-Assessment-System]
+git clone https://github.com/amitabh-7t/Medical-Disease-Risk-Assessment-System
 cd Medical-Disease-Risk-Assessment-System
 
 # Install dependencies
